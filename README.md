@@ -1,13 +1,5 @@
-I am currently a PhD candidate at [INSA](https://www.groupe-insa.fr) (MA team) and [INRIA](https://www.inria.fr/fr) (SIMSMART team).
-Before, I earned an Engineering degree (MSc. equivalent) in Applied Mathematics from INSA. 
-There, I studied a wide range of applied mathematics fields such as Optimization, Machine Learning and Statistics, ... 
-I also took a research option that allowed me to work with researchers for two years before obtaining my engineering degree. 
-My main research topics are :
+I am currently a Postdoctoral researcher at [Polytechnique Montréal](https://www.polymtl.ca) in the SCALE-AI Chair Team supervized by [Thibaut Vidal](https://w1.cirrelt.ca/~vidalt/en/home-thibaut-vidal.html).
+Prior to that, I was a PhD student jointly at [INRIA Rennes](https://www.inria.fr/fr) in the SIMSMART team and at [INSA Rennes](https://www.groupe-insa.fr) in the Applied Mathematics Department under the supervizion of [Cédric Herzet](https://cherzet.github.io), [Clément Elvira](https://c-elvira.github.io), and [Ayse-Nur Arslan](https://aysnrarsln.github.io).
+Before, I earned an Engineering degree (M.Sc. equivalent) specialized Applied Mathematics from [INSA Rennes](https://www.groupe-insa.fr) where I followed a research cursus that allowed me to collaborate with researchers for two years before graduating.
 
-- Optimization (convex, non-convex, mixed-integer, ...)
-- Sparse problems
-- Screening methods
-- Machine learning
-- Signal processing
-
-You can visit my personnal website [here](https://theoguyard.github.io).
+I mainly work on mixed-integer and convex optimization problems linked to Machine learning and signal processing applications. You can visit my [website](https://theoguyard.github.io) for more details.
